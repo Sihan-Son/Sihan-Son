@@ -11,9 +11,12 @@
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sihan-Son)](https://github.com/anuraghazra/github-readme-stats)                                                     
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{Sihan-Son}?pet-id=1" width="1000" height="120"/>
+<img
+  src="https://render.gitanimals.org/farms/Sihan-Son"
+  width="600"
+  height="300"
+/>
 </a>
-	
 <!--
 **Sihan-Son/Sihan-Son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
